@@ -1,6 +1,6 @@
 <a href="https://juncture-digital.org"><img src="https://gitcdn.link/cdn/jstor-labs/juncture/main/images/ve-button.png"></a>
 
-<param ve-config title="Tea Time in India" author="Romita Ray" banner="https://upload.wikimedia.org/wikipedia/commons/thumb/a/a4/Tea_Banner3.jpg/640px-Tea_Banner3.jpg">
+<param ve-config title="Tea Time in India" author="Romita Ray" banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Tea_Banner3.jpg">
 
 # Tea Time in India
 
