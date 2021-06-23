@@ -12,6 +12,7 @@ Tea is an aromatic beverage prepared by pouring hot or boiling water over cured 
 <param ve-image url="https://upload.wikimedia.org/wikipedia/commons/e/e3/Camellia_sinensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-025.jpg">
 
 The tea plant originated in the region encompassing today's Southwest China, Tibet, north Myanmar and Northeast India, where it was used as a medicinal drink by various ethnic groups.[7][8] An early credible record of tea drinking dates to the 3rd century AD, in a medical text written by Hua Tuo.[9] It was popularised as a recreational drink during the Chinese Tang dynasty, and tea drinking spread to other East Asian countries. Portuguese priests and merchants introduced it to Europe during the 16th century.[10] During the 17th century, drinking tea became fashionable among the English, who started to plant tea on a large scale in India.
+<param ve-map url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/World_Map_Tea_Production.svg/1280px-World_Map_Tea_Production.svg.png">
 
 The term herbal tea refers to drinks not made from Camellia sinensis: infusions of fruit, leaves, or other plant parts, such as steeps of rosehip, chamomile, or rooibos. These may be called tisanes or herbal infusions to prevent confusion with "tea" made from the tea plant.
 
