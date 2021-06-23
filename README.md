@@ -2,7 +2,7 @@
 
 <param ve-config title="Tea Time in India" author="Romita Ray" banner="https://upload.wikimedia.org/wikipedia/commons/a/a4/Tea_Banner3.jpg">
 layout="vertical"
-<param ve-image="https://upload.wikimedia.org/wikipedia/commons/e/e3/Camellia_sinensis_-_K%C3%B6hler%E2%80%93s_Medizinal-Pflanzen-025.jpg">
+
 
 # Tea Time in India
 
