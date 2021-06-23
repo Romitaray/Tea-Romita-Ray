@@ -15,5 +15,5 @@ The tea plant originated in the region encompassing today's Southwest China, Tib
 <param ve-map url="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e8/World_Map_Tea_Production.svg/1280px-World_Map_Tea_Production.svg.png">
 
 The term herbal tea refers to drinks not made from Camellia sinensis: infusions of fruit, leaves, or other plant parts, such as steeps of rosehip, chamomile, or rooibos. These may be called tisanes or herbal infusions to prevent confusion with "tea" made from the tea plant.
-<param ve-image url="/Leopard.jpg">
+<param ve-image url="/Leopard.JPG">
 
