@@ -1,51 +1,12 @@
 <a href="https://juncture-digital.org"><img src="https://gitcdn.link/cdn/jstor-labs/juncture/main/images/ve-button.png"></a>
 
-<param ve-config title="Page Title" author="null" banner="https://picsum.photos/id/164/1000/400">
+<param ve-config title="Tea Time in India" author="Romita Ray" banner="https://picsum.photos/id/164/1000/400">
 
-# Welcome to your new Juncture site!
+# Tea Time in India
 
-This Juncture site is published at [https://Romitaray.github.io/Tea-Romita-Ray](https://Romitaray.github.io/Tea-Romita-Ray) (note that it can take a few minutes for this URL become active after the site is created).
-- The content for this site is located in the GitHub repository at [https://github.com/Romitaray/Tea-Romita-Ray](https://github.com/Romitaray/Tea-Romita-Ray).
-- A sample visual essay can be found at [https://github.com/Romitaray/Tea-Romita-Ray/sample](/sample).
+Tea is an aromatic beverage prepared by pouring hot or boiling water over cured or fresh leaves of Camellia sinensis, an evergreen shrub native to China and East Asia.[3] After water, it is the most widely consumed drink in the world.[4] There are many different types of tea; some, like Chinese greens and Darjeeling, have a cooling, slightly bitter, and astringent flavour,[5] while others have vastly different profiles that include sweet, nutty, floral, or grassy notes. Tea has a stimulating effect in humans primarily due to its caffeine content.[6]
 
-# Customizing your site
+The tea plant originated in the region encompassing today's Southwest China, Tibet, north Myanmar and Northeast India, where it was used as a medicinal drink by various ethnic groups.[7][8] An early credible record of tea drinking dates to the 3rd century AD, in a medical text written by Hua Tuo.[9] It was popularised as a recreational drink during the Chinese Tang dynasty, and tea drinking spread to other East Asian countries. Portuguese priests and merchants introduced it to Europe during the 16th century.[10] During the 17th century, drinking tea became fashionable among the English, who started to plant tea on a large scale in India.
 
-- The site home page (this page) can be edited at [https://github.com/Romitaray/Tea-Romita-Ray/edit/main/README.md](https://github.com/Romitaray/Tea-Romita-Ray/edit/main/README.md)
-- The sample essay can be edited at [https://github.com/Romitaray/Tea-Romita-Ray/edit/main/sample/README.md](https://github.com/Romitaray/Tea-Romita-Ray/edit/main/sample/README.md)
+The term herbal tea refers to drinks not made from Camellia sinensis: infusions of fruit, leaves, or other plant parts, such as steeps of rosehip, chamomile, or rooibos. These may be called tisanes or herbal infusions to prevent confusion with "tea" made from the tea plant.
 
-A configuration file (**config.yaml**) is located at root of the **juncture** branch in the GitHub repository of the new site and is used to customize the site.  Configuration options include setting up navigation links in the site menu and configuring a contact form.
-- The configuration page is found at [https://github.com/Romitaray/Tea-Romita-Ray/blob/juncture/config.yaml](https://github.com/Romitaray/Tea-Romita-Ray/blob/juncture/config.yaml)
-
-## Setting a default banner, title, and tagline for the site
-
-At the top of the configuration file are a number of options for customizing the site display.
-
-```yaml
-title: Juncture
-tagline: A Visual Essay Site
-banner: https://picsum.photos/id/164/1000/400
-favicon: /images/favicon.svg
-```
-
-## Adding pages to the top level site menu
-
-TODO
-
-## Adding a Contact Form with a custom email
-
-To activate the **Contact Us** form, remove the comment character (**#**) from the beginning of the following lines in the config.yaml file.
-
-```yaml
-- label: Contact Us
-  icon: envelope
-  path: "/contact-us"
-```
-
-## Modifying the page layout and styling
-
-A custom stylesheet can be used to alter most any styling on the site.  This includes fonts, font sizes, margins, most anything.  The empty stylesheet (found in **[/css/custom.css](https://github.com/Romitaray/Tea-Romita-Ray/blob/main/css/custom.css)**) is provided for performing these customizations.
-
-# Providing access to content creators
-
-Initially, only the site creator (Romitaray) is able to add content to the site.  The `Manage access` panel on the GitHub `Settings` page is used to provide write or admin access to other users.  In this panel enter the GitHub usernames any other users that will be adding content or managing the site.
-- The `Manage access` panel for this site is found at [https://github.com/Romitaray/Tea-Romita-Ray/settings/access](https://github.com/Romitaray/Tea-Romita-Ray/settings/access)
